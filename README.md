@@ -1,1 +1,2 @@
-This is basic HTML, CSS AND JS used to create this application. It based on a simple question, in the end you can check your score as well as whole answer and instance when you are clicking the option it will indicate that grren color for correct option and red color for the wrong option
+This is the basic HTML, CSS, AND JS used to create this application. It is based on a simple question, in the end, you can check your score as well as the whole answer and instance when you click the option it will indicate that green color for the correct option and the red color for the wrong option
+![Screenshot 2024-04-26 210954](https://github.com/sonu9172/quiz/assets/113236734/ebc53645-ca01-4636-a5a6-58212031e7d6)
