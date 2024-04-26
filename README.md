@@ -1,0 +1,1 @@
+This is basic HTML, CSS AND JS used to create this application. It based on a simple question, in the end you can check your score as well as whole answer and instance when you are clicking the option it will indicate that grren color for correct option and red color for the wrong option
